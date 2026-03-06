@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "シャボン",
+  "base_artist": "MIMI",
+  "createdAt": "2026-03-06T23:43:10.429149Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シャボン",
+      "artist": "斉藤朱夏",
+      "has_synced": true,
+      "path": "select/01_シャボン_斉藤朱夏.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シャボン",
+      "artist": "小泉今日子",
+      "has_synced": true,
+      "path": "select/02_シャボン_小泉今日子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シャボン",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/03_シャボン_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シャボン",
+      "artist": "サザンオールスターズ",
+      "has_synced": true,
+      "path": "select/04_シャボン_サザンオールスターズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シャボン",
+      "artist": "斉藤 朱夏",
+      "has_synced": true,
+      "path": "select/05_シャボン_斉藤_朱夏.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "シャボン",
+      "artist": "スネオヘアー",
+      "has_synced": false,
+      "path": "select/06_シャボン_スネオヘアー.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シャボン [2024 Remaster]",
+      "artist": "サザンオールスターズ",
+      "has_synced": false,
+      "path": "select/07_シャボン_[2024_Remaster]_サザンオールスターズ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シャボン",
+      "artist": "長山洋子",
+      "has_synced": true,
+      "path": "select/08_シャボン_長山洋子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シャボン",
+      "artist": "Southern All Stars",
+      "has_synced": false,
+      "path": "select/09_シャボン_Southern_All_Stars.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シャボン (feat. 初音ミク)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_シャボン_(feat._初音ミク)_MIMI.txt"
+    }
+  ]
+}
